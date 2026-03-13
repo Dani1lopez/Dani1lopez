@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Daniel%20Alcaraz%20López&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20PHP%20%7C%20FastAPI%20%7C%20Django%20%7C%20Laravel&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Developer+—+Python+%26+PHP;FastAPI+%7C+Django+%7C+Laravel+%7C+REST+APIs;RBAC+%7C+Clean+Architecture+%7C+Docker;Cybersecurity+%26+Ethical+Hacking+en+curso;CompTIA+Security%2B+(SY0-701);Nunca+dejar+de+aprender.+Never+stop." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Developer+—+Python+%26+PHP;FastAPI+%7C+Django+%7C+Laravel+%7C+REST+APIs;RBAC+%7C+Clean+Architecture+%7C+Docker;Cybersecurity+%26+Ethical+Hacking+en+curso;CompTIA+Security%2B+(SY0-701);Nunca+dejar+de+aprender.+Never+stop." alt="Typing SVG" />
 
 <br/><br/>
 
