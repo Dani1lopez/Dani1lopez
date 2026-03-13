@@ -1,147 +1,226 @@
 <div align="center">
 
-<!-- ANIMATED HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Daniel%20Alcaraz%20López&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Python%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Daniel%20Alcaraz%20López&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20PHP%20%7C%20FastAPI%20%7C%20Django%20%7C%20Laravel&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Desarrollador+de+Aplicaciones+Web+%F0%9F%92%BB;Python+%26+FastAPI+Backend+Developer+%F0%9F%90%8D;APIs+REST+%7C+Clean+Architecture+%E2%9A%99%EF%B8%8F;Aprendiendo+Cybersecurity+%F0%9F%94%90;Futuro+Ethical+Hacker+%F0%9F%A5%B7;Siempre+aprendiendo%2C+nunca+estancado+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Developer+—+Python+%26+PHP+🐍;FastAPI+%7C+Django+%7C+Laravel+%7C+REST+APIs+⚙️;RBAC+%7C+Clean+Architecture+%7C+Docker+🏗️;Cybersecurity+%26+Ethical+Hacking+en+curso+🔐;CompTIA+Security%2B+(SY0-701)+🎯;Nunca+dejar+de+aprender.+Never+stop.+⚡" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Dani1lopez&label=Visitas+al+perfil&color=7c3aed&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Dani1lopez?label=Seguidores&style=for-the-badge&color=7c3aed" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=Dani1lopez&label=Visitas+al+perfil&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Dani1lopez?label=Seguidores&style=for-the-badge&color=7c3aed" />
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+## 👋 Sobre mí
 
-### 👋 Sobre mí
-
-```python
-class DaniAlcaraz:
-    nombre     = "Daniel Alcaraz López"
-    ubicacion  = "Almería, España 🌞"
-    formacion  = "DAW + Especialización Python"
-    
-    stack_actual = {
-        "backend":  ["Python", "FastAPI", "REST APIs"],
-        "frontend": ["HTML5", "CSS3", "JavaScript"],
-        "devops":   ["Git", "Linux", "AWS EC2"],
-    }
-    
-    objetivo_profesional = [
-        "🐍 Backend sólido con FastAPI",
-        "🔐 Especialización en Cybersecurity",
-        "🎯 CompTIA Security+ en curso",
-        "🥷 Ethical Hacking & Pentesting",
-    ]
-    
-    actualmente = "Internship IT — digitalización empresa 🌸"
-    
-    def filosofia(self):
-        return "Nunca dejar de aprender. Never stop."
-```
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 <br/>
 
+🌍 &nbsp;Basado en **Almería, España**
+
+🎓 &nbsp;**DAW** (2023–2025) + Especialización **Python** (en curso)
+
+💼 &nbsp;Prácticas en **Agencia Digital Andaluza** — desarrollé un sistema web completo en solitario y en producción
+
+🐍 &nbsp;Backend con **Python** (FastAPI · Django) y **PHP** (Laravel · MVC puro)
+
+🏗️ &nbsp;Experiencia real en **RBAC**, **Docker**, **APIs REST**, **testing automatizado** y arquitecturas limpias
+
+🔐 &nbsp;Transicionando hacia **Cybersecurity** y **Ethical Hacking**
+
+🎯 &nbsp;Preparando **CompTIA Security+** (SY0-701)
+
+☁️ &nbsp;**AWS Academy Cloud Foundations** certificado · Despliegues en Railway, Render, Hostinger
+
+⚡ &nbsp;Filosofía: **Nunca dejar de aprender. Never stop.**
+
+<br/><br/>
+
 ---
 
-<!-- TECH STACK -->
-<div align="center">
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
 **Lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Backend & APIs**
+**Frameworks & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Infraestructura & Herramientas**
+**Bases de datos**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**DevOps & Despliegue**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Frontend**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Testing & APIs**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 **🔐 Cybersecurity — En progreso**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![CompTIA](https://img.shields.io/badge/CompTIA_Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ROADMAP -->
+## 🚀 Proyectos Destacados
+
 <div align="center">
 
-### 🗺️ Mi Roadmap
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🔐 AccessLedger</h3>
+      <p align="center"><em>Internal Access Management System</em></p>
+      <p align="center">
+        Sistema RBAC de 3 niveles (viewer / editor / admin) con audit log completo — snapshots JSON before/after, brute-force protection con django-axes, middleware de cambio de contraseña forzado y 21 tests automatizados. Desplegado en Railway.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django_5.2-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Dani1lopez/accessledger">
+          <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🤖 KarmaBox Bot</h3>
+      <p align="center"><em>Multicanal Lead Capture System</em></p>
+      <p align="center">
+        API REST con FastAPI para captura de leads multicanal: bot Telegram con máquina de estados + webhook WhatsApp con idempotencia. Validación de teléfono español, deduplicación (409 Conflict) y Google Sheets como backend via Service Account. Desplegado en Render.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Dani1lopez/karmabox-bot">
+          <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-```
-Dev Backend                     Cybersecurity
-─────────────────────────       ─────────────────────────────
- ✅ Python sólido               ✅ Fundamentos de redes
- ✅ REST APIs                   ✅ Criptografía básica
- ✅ FastAPI                     🔄 CompTIA Security+ (SY0-701)
- 🔄 FastAPI avanzado            🔄 HackTheBox / TryHackMe
- 🔄 Autenticación JWT/OAuth2    ⏳ Kali Linux & herramientas
- ⏳ Docker + despliegue         ⏳ Pentesting Web (OWASP)
- ⏳ PostgreSQL + SQLAlchemy     ⏳ Metasploit Framework
- ⏳ Clean Architecture          ⏳ Ethical Hacking certificado
-```
-<div align="center">
-<sub>✅ Dominado &nbsp;|&nbsp; 🔄 En progreso &nbsp;|&nbsp; ⏳ Próximo objetivo</sub>
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+## 💼 Experiencia
+
+**Desarrollador Web — Prácticas Profesionales**
+&nbsp;·&nbsp; Agencia Digital Andaluza (ADA), Almería &nbsp;·&nbsp; *Marzo – Junio 2025*
+
+Desarrollo completo como único desarrollador de un sistema web de gestión de prácticas FP — desde el diseño hasta el despliegue en producción.
+
+- 🏗️ &nbsp;Arquitectura **MVC con PHP 8 + PDO** — 7 módulos CRUD con **RBAC y permisos granulares**
+- ⚡ &nbsp;Formularios dinámicos con **AJAX / Fetch API**, validación en tiempo real y confirmaciones con SweetAlert2
+- 🔒 &nbsp;Protección **CSRF**, `password_hash/verify`, prevención de SQL injection con sentencias preparadas
+- 📄 &nbsp;Generación dinámica de **PDF con FPDF** y despliegue en producción en **Hostinger**
+
+`PHP 8` `MySQL` `MVC` `PDO` `Bootstrap 5` `jQuery` `AJAX` `DataTables` `FPDF`
+
+---
+
+## 🗺️ Mi Roadmap
+
 <div align="center">
 
-### 📊 GitHub Stats
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dev Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cybersecurity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---|:---|
+| ✅ Python · PHP · Django · FastAPI · Laravel | ✅ Fundamentos de redes |
+| ✅ REST APIs · RBAC · MVC · Clean Architecture | ✅ Criptografía básica |
+| ✅ Docker · Railway · Render · testing automatizado | 🔄 CompTIA Security+ (SY0-701) |
+| 🔄 FastAPI avanzado · JWT / OAuth2 | 🔄 HackTheBox / TryHackMe |
+| 🔄 Arquitectura hexagonal | ⏳ Kali Linux & herramientas |
+| ⏳ PostgreSQL avanzado + SQLAlchemy | ⏳ Pentesting Web (OWASP) |
+| ⏳ Kubernetes · CI/CD | ⏳ Metasploit Framework |
+| ⏳ Microservicios | ⏳ Ethical Hacking certificado |
+
+✅ Dominado &nbsp;·&nbsp; 🔄 En progreso &nbsp;·&nbsp; ⏳ Próximo objetivo
+
+</div>
+
+---
+
+## 🏅 Certificaciones
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IBM](https://img.shields.io/badge/AI_Fundamentals_IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Santander](https://img.shields.io/badge/Cursor_con_Python_—_Santander-FF0000?style=for-the-badge&logo=santander&logoColor=white)
+![OpenWebinars](https://img.shields.io/badge/JavaScript_Fundamentals-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenWebinars](https://img.shields.io/badge/GitHub_%26_Markdown-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dani1lopez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=cdd6f4" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani1lopez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cdd6f4" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani1lopez&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani1lopez&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
+## 📈 Actividad
 
-### 📈 Actividad
+<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dani1lopez&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -149,44 +228,9 @@ Dev Backend                     Cybersecurity
 
 ---
 
-<!-- PINNED PROJECTS SECTION -->
+## 🐍 Contribuciones
+
 <div align="center">
-
-### 🚀 Proyectos Destacados
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔐 AccessLedger</h3>
-      <p>Sistema de control de accesos y auditoría de seguridad. Gestión de logs, usuarios y permisos con Python.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=shield&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/Dani1lopez/accessledger">
-        <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 KarmaBox Bot</h3>
-      <p>Bot automatizado en Python para gestión y análisis de karma. Automatización inteligente de tareas.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bot-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/Dani1lopez/karmabox-bot">
-        <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-### 🐍 Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dani1lopez/Dani1lopez/output/github-snake-dark.svg" />
@@ -198,10 +242,9 @@ Dev Backend                     Cybersecurity
 
 ---
 
-<!-- CONTACT -->
-<div align="center">
+## 📬 Contacto
 
-### 📬 Contacto
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-alcaraz-l%C3%B3pez-774aa8251)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dani1lopez)
@@ -210,7 +253,8 @@ Dev Backend                     Cybersecurity
 
 *"El conocimiento es la única riqueza que crece cuando se comparte."*
 
-<!-- FOOTER WAVE -->
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
 </div>
