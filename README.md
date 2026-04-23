@@ -126,7 +126,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center">🤖 KarmaBox Bot</h3>
+      <h3 align="center">🤖 LeadFlow</h3>
       <p align="center"><em>Multicanal Lead Capture System</em></p>
       <p align="center">
         API REST con FastAPI para captura de leads multicanal: bot Telegram con máquina de estados + webhook WhatsApp con idempotencia. Validación de teléfono español, deduplicación (409 Conflict) y Google Sheets como backend via Service Account. Desplegado en Render.
